@@ -1,0 +1,4 @@
+[31-Mar-2015 03:13:31 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home3/codebrew/public_html/projects/social_change/api/test.php on line 4
+[31-Mar-2015 03:13:47 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home3/codebrew/public_html/projects/social_change/api/test.php on line 4
+[31-Mar-2015 03:14:00 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home3/codebrew/public_html/projects/social_change/api/test.php on line 4
+[31-Mar-2015 03:14:45 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home3/codebrew/public_html/projects/social_change/api/test.php on line 6

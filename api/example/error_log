@@ -1,0 +1,19 @@
+[04-Sep-2014 00:14:17 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: _makeCall() | users/self/media/recent - This method requires an authenticated users access token.' in /home3/codebrew/public_html/projects/Instamigos/api/example/instagram.class.php:431
+Stack trace:
+#0 /home3/codebrew/public_html/projects/Instamigos/api/example/instagram.class.php(148): Instagram->_makeCall('users/self/medi...', true, Array)
+#1 /home3/codebrew/public_html/projects/Instamigos/api/example/success.php(36): Instagram->getUserMedia()
+#2 {main}
+  thrown in /home3/codebrew/public_html/projects/Instamigos/api/example/instagram.class.php on line 431
+[19-Sep-2014 23:32:08 America/Chicago] PHP Parse error:  syntax error, unexpected '_329048594' (T_STRING) in /home3/codebrew/public_html/projects/Instamigos/api/example/success.php on line 38
+[19-Sep-2014 23:36:33 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: _makeCall() | users/self/media/recent - This method requires an authenticated users access token.' in /home3/codebrew/public_html/projects/Instamigos/api/example/instagram.class.php:431
+Stack trace:
+#0 /home3/codebrew/public_html/projects/Instamigos/api/example/instagram.class.php(148): Instagram->_makeCall('users/self/medi...', true, Array)
+#1 /home3/codebrew/public_html/projects/Instamigos/api/example/success.php(36): Instagram->getUserMedia()
+#2 {main}
+  thrown in /home3/codebrew/public_html/projects/Instamigos/api/example/instagram.class.php on line 431
+[18-Dec-2014 05:15:49 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: _makeCall() | users/self/media/recent - This method requires an authenticated users access token.' in /home3/codebrew/public_html/projects/Instamigos/api/example/instagram.class.php:431
+Stack trace:
+#0 /home3/codebrew/public_html/projects/Instamigos/api/example/instagram.class.php(148): Instagram->_makeCall('users/self/medi...', true, Array)
+#1 /home3/codebrew/public_html/projects/Instamigos/api/example/success.php(36): Instagram->getUserMedia()
+#2 {main}
+  thrown in /home3/codebrew/public_html/projects/Instamigos/api/example/instagram.class.php on line 431
